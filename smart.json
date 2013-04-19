@@ -3,7 +3,7 @@
 	"description": "jQuery Masonry package for Meteor",
 	"homepage": "https://github.com/waltyuyu/meteor-jquery-masonry",
 	"author": "waltyuyu",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"git": "https://github.com/waltyuyu/meteor-jquery-masonry.git",
 	"packages": {}
 }
